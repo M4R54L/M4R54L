@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @M4R54L
-- 👀 I’m interested in Saas
+- 👀 I’m interested in SaaS
 - 🌱 I’m currently learning TypeScript and Kubernetes
 - 💞️ I’m looking to collaborate on Web Projects
 
